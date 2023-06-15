@@ -1,0 +1,7 @@
+{
+  "name": "zego-ionic-video-call",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
