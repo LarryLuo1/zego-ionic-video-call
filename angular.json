@@ -64,7 +64,7 @@
               "optimization": false,
               "vendorChunk": true,
               "extractLicenses": false,
-              "sourceMap": true,
+              "sourceMap": false,
               "namedChunks": true
             },
             "ci": {
@@ -166,7 +166,8 @@
   "cli": {
     "schematicCollections": [
       "@ionic/angular-toolkit"
-    ]
+    ],
+    "analytics": "7e9da6cf-d561-4d10-8bc1-0e80b9ffe95d"
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
