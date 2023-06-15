@@ -4,14 +4,17 @@
 ### 1. Disable sourceMap
 
 ![](media/16868197786831/16868199035770.jpg)
+### 2. Set `AllowInlineMediaPlayback` property
+![](assets/16868216692069.jpg)
 
-### 2. Set iOS camera and microphone permissions
+
+### 3. Set iOS camera and microphone permissions
 
 ![](media/16868197786831/16868199670979.jpg)
 
 ### 3. Set Android camera and microphone permissions
 
-![](media/16868197786831/16868200195.jpg)
+![](media/16868197786831/16868200151295.jpg)
 
 ## Implement Video Call
 
