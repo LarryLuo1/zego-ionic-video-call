@@ -40,4 +40,4 @@ import { ZegoUIKitPrebuilt } from '@zegocloud/zego-uikit-prebuilt';
 - Update AppID and Server Secret with the Token obtained from your business backend. For more details, please refer to the [reference documentation](https://docs.zegocloud.com/article/14741).
 ![](media/16868197786831/16868202027197.jpg)
 
-> For detailed usage instructions, please refer to the [official documentation](https://docs.zegocloud.com/article/14933).
+> For detailed usage instructions, please refer to the [official documentation](https://docs.zegocloud.com/article/15385).

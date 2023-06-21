@@ -22,10 +22,11 @@
     "@angular/router": "^16.0.0",
     "@ionic/angular": "^7.0.0",
     "@ionic/cordova-builders": "^9.0.0",
-    "@zegocloud/zego-uikit-prebuilt": "^1.8.4",
+    "@zegocloud/zego-uikit-prebuilt": "^1.8.5",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "zego-zim-web": "^2.5.0",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
